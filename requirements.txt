@@ -1,0 +1,15 @@
+streamlit
+langchain==0.2.17
+langchain-community==0.2.17
+langchain-core==0.2.43
+langchain-google-genai==1.0.10
+google-generativeai
+faiss-cpu
+pypdf
+python-docx
+python-dotenv
+sentence-transformers
+scikit-learn
+ragas==0.1.21
+datasets
+pandas
