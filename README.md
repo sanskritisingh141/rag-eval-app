@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG-Eval: Production Retrieval-Augmented Generation System with Evaluation Dashboard
 
 A production-ready Retrieval-Augmented Generation (RAG) application that enables users to upload documents, ask context-aware questions, inspect source citations, and evaluate response quality using both lightweight local metrics and advanced RAGAS-based evaluation.
@@ -373,3 +374,24 @@ This project is intended for educational, research, and portfolio purposes.
 
 Sanskriti Singh
 
+=======
+---
+title: Document Rag Evaluator
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: false
+short_description: Streamlit template space
+---
+
+# Welcome to Streamlit!
+
+Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
+
+If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
+forums](https://discuss.streamlit.io).
+>>>>>>> 2f94eb08227525efe2b55623fc1d9ba058e6eacf
