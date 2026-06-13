@@ -278,23 +278,19 @@ If information is not present in the document, the system is designed to avoid g
 
 ### Document Upload
 
-![Document Upload](screenshots/upload.png)
+![Document Upload](screenshots/01-upload-document.png)
 
 ### Question Answering with Citations
 
-![RAG Answer](screenshots/answer.png)
+![RAG Answer](screenshots/03-rag-answer-with-citations.png.png)
 
 ### Local Evaluation Dashboard
 
-![Local Evaluation](screenshots/local_eval.png)
-
-### RAGAS Evaluation Dashboard
-
-![RAGAS Evaluation](screenshots/ragas_eval.png)
+![Local Evaluation](screenshots/04-local-evaluation-dashboard.png)
 
 ### Question History
 
-![Question History](screenshots/history.png)
+![Question History](screenshots/05-history-tab.png.png)
 
 ---
 
