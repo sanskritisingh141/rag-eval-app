@@ -4,6 +4,10 @@ A production-ready Retrieval-Augmented Generation (RAG) application that enables
 
 Built with Streamlit, LangChain, FAISS, Hugging Face embeddings, and Google Gemini, the project demonstrates an end-to-end RAG pipeline with integrated answer evaluation and explainability features.
 
+## Live Demo
+
+[Try the app on Hugging Face Spaces](https://huggingface.co/spaces/sanskriti141/document-rag-evaluator)
+
 ---
 
 ## Features
